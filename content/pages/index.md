@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: 'Fullstack Developer: Building the Web, One Pixel & Backend at a Time'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Years of caffeine-fueled development, polished into projects that actually
+      work. Keep scrolling for proof—and maybe a hidden easter egg or two
     styles:
       self:
         height: auto
