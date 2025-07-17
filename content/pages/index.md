@@ -49,7 +49,7 @@ sections:
       url: /images/gallery-1.jpg
       altText: altText of the image
       caption: Caption of the image
-      elementId: ''
+      elementId: img
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
